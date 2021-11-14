@@ -1,0 +1,4 @@
+[submodule "TutorialGIT"]
+	path = TutorialGIT
+	url = https://github.com/BrunoTrevisani/TutorialGIT.git
+	branch = master
